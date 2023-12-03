@@ -1,0 +1,1 @@
+<a href="{{ url('tasks') }}" class="btn btn-link"> Volver </a>
